@@ -1,0 +1,5 @@
+student_id,supervisor_id,institution,area,sent_at,outcome
+sample_biomaterials_001,A5031856973,University of Toronto,hydrogel drug delivery,2026-07-12,POSITIVE_REPLY
+sample_biomaterials_001,A5055000569,University of British Columbia,3D bioprinting scaffolds,2026-07-12,INTERVIEW
+sample_biomaterials_001,A5089892421,University of Oxford,wound healing and regenerative medicine,2026-07-12,NO_REPLY
+sample_biomaterials_001,A5011111111,Example University,biomaterials for tissue engineering,2026-07-12,WRONG_PERSON

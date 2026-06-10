@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "phd-shortlist-builder"
+version = "0.1.0"
+description = "Production-quality PhD supervisor shortlist builder for AI Engineer shortlist assignment"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "pydantic>=2.7,<3",
+  "requests>=2.31,<3",
+  "tenacity>=8.2,<9",
+  "typer>=0.12,<1",
+  "rich>=13.7,<14",
+  "python-dateutil>=2.9,<3",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8,<9",
+  "ruff>=0.5,<1",
+]
+
+[project.scripts]
+phd-shortlist = "phd_shortlist.cli:app"
+
+[tool.setuptools.packages.find]
+include = ["phd_shortlist*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

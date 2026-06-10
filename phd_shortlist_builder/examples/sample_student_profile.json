@@ -1,0 +1,53 @@
+{
+  "student_id": "sample_biomaterials_001",
+  "education": [
+    {
+      "degree": "MSc Biotechnology",
+      "institution": "Indian Institute of Technology Madras",
+      "field": "Biotechnology",
+      "grade": "8.7/10",
+      "thesis": "Injectable hydrogel scaffolds for sustained antimicrobial peptide delivery"
+    },
+    {
+      "degree": "BTech Biomedical Engineering",
+      "institution": "Anna University",
+      "field": "Biomedical Engineering",
+      "grade": "8.9/10"
+    }
+  ],
+  "skills": [
+    "biomaterials",
+    "hydrogels",
+    "tissue engineering",
+    "drug delivery",
+    "cell culture",
+    "confocal microscopy",
+    "Python",
+    "statistical analysis"
+  ],
+  "projects": [
+    {
+      "title": "Injectable antimicrobial hydrogel",
+      "description": "Designed a chitosan-gelatin injectable hydrogel and evaluated swelling, degradation, and antimicrobial release kinetics.",
+      "skills": ["hydrogel synthesis", "drug release modeling", "antimicrobial assays"]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Sustained release antimicrobial hydrogels for infected wound models",
+      "venue": "Under review",
+      "year": 2026
+    }
+  ],
+  "research_interests": [
+    "biomaterials for tissue engineering",
+    "hydrogel drug delivery",
+    "wound healing and regenerative medicine",
+    "3D bioprinting scaffolds"
+  ],
+  "target_countries": ["United States", "Canada", "United Kingdom"],
+  "target_intake": "Fall 2027",
+  "intro_call_summary": "Student wants a funded PhD in biomaterials or regenerative medicine, ideally with translational work on hydrogels, wound healing, antimicrobial delivery, and scaffold design. Open to engineering departments, biomedical engineering, or materials science groups.",
+  "raw_resume_text": "MSc thesis on injectable hydrogels. Experience with chitosan gelatin scaffolds, antimicrobial peptides, release kinetics, mammalian cell culture, microscopy, and Python data analysis.",
+  "citizenship": "India"
+}

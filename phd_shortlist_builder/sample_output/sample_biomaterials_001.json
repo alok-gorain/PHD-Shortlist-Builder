@@ -1,0 +1,3942 @@
+{
+  "student_id": "sample_biomaterials_001",
+  "schema_version": "1.0",
+  "metadata": {
+    "generated_at": "2026-06-10T10:29:26.997774Z",
+    "generator_version": "0.1.0",
+    "data_sources": [
+      "OpenAlex authors/works API"
+    ],
+    "target_countries": [
+      "United States",
+      "Canada",
+      "United Kingdom"
+    ],
+    "requested_min": 50,
+    "requested_max": 200,
+    "total_recommendations": 54,
+    "warnings": []
+  },
+  "recommendations": [
+    {
+      "supervisor_id": "A5054806024",
+      "name": "Nicholas A. Peppas",
+      "institution": "Rutgers, The State University of New Jersey",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5054806024",
+      "research_focus": [
+        "Chemistry",
+        "Materials science",
+        "Polymer",
+        "Nanotechnology",
+        "Organic chemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Engineering precision nanoparticles for drug delivery",
+          "year": 2020,
+          "url": "https://doi.org/10.1038/s41573-020-0090-8",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.33."
+        },
+        {
+          "type": "paper",
+          "title": "Hydrogels in Regenerative Medicine",
+          "year": 2009,
+          "url": "https://doi.org/10.1002/adma.200802106",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.22."
+        },
+        {
+          "type": "paper",
+          "title": "Biochemical engineering fundamentals",
+          "year": 1986,
+          "url": "https://doi.org/10.1016/0168-3659(86)90022-2",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.20."
+        }
+      ],
+      "why_match": "Nicholas A. Peppas's work on “Engineering precision nanoparticles for drug delivery” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.5696,
+      "linked_programs_or_positions": [
+        {
+          "title": "Rutgers, The State University of New Jersey doctoral programs",
+          "url": "https://www.google.com/search?q=Rutgers%2C+The+State+University+of+New+Jersey+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5054806024",
+        "works_count": 532,
+        "cited_by_count": 65551,
+        "score_breakdown": {
+          "total": 0.5695652173913044,
+          "topical_fit": 0.2391304347826087,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5084630487",
+      "name": "Lakshmi S. Nair",
+      "institution": "University of Vermont",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5084630487",
+      "research_focus": [
+        "Medicine",
+        "Chemistry",
+        "Materials science",
+        "Biology",
+        "Engineering"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine",
+        "3D bioprinting scaffolds"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Biodegradable polymers as biomaterials",
+          "year": 2007,
+          "url": "https://doi.org/10.1016/j.progpolymsci.2007.05.017",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.20."
+        },
+        {
+          "type": "paper",
+          "title": "Biomedical applications of biodegradable polymers",
+          "year": 2011,
+          "url": "https://doi.org/10.1002/polb.22259",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.17."
+        },
+        {
+          "type": "paper",
+          "title": "Electrospun poly(lactic acid-co-glycolic acid) scaffolds for skin tissue engineering",
+          "year": 2008,
+          "url": "https://doi.org/10.1016/j.biomaterials.2008.06.028",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.20."
+        }
+      ],
+      "why_match": "Lakshmi S. Nair's work on “Biodegradable polymers as biomaterials” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.5696,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of Vermont doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+Vermont+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5084630487",
+        "works_count": 224,
+        "cited_by_count": 15221,
+        "score_breakdown": {
+          "total": 0.5695652173913044,
+          "topical_fit": 0.2391304347826087,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5089380253",
+      "name": "Cato T. Laurencin",
+      "institution": "University of Southern California",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5089380253",
+      "research_focus": [
+        "Medicine",
+        "Chemistry",
+        "Materials science",
+        "Biology",
+        "Biomedical engineering"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine",
+        "3D bioprinting scaffolds"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Biodegradable polymers as biomaterials",
+          "year": 2007,
+          "url": "https://doi.org/10.1016/j.progpolymsci.2007.05.017",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.20."
+        },
+        {
+          "type": "paper",
+          "title": "Electrospun nanofibrous structure: A novel scaffold for tissue engineering",
+          "year": 2002,
+          "url": "https://doi.org/10.1002/jbm.10167",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.11."
+        },
+        {
+          "type": "paper",
+          "title": "Bone Tissue Engineering: Recent Advances and Challenges",
+          "year": 2012,
+          "url": "https://doi.org/10.1615/critrevbiomedeng.v40.i5.10",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.09."
+        }
+      ],
+      "why_match": "Cato T. Laurencin's work on “Biodegradable polymers as biomaterials” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.5587,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of Southern California doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+Southern+California+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5089380253",
+        "works_count": 510,
+        "cited_by_count": 44198,
+        "score_breakdown": {
+          "total": 0.558695652173913,
+          "topical_fit": 0.21739130434782608,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5033170988",
+      "name": "Marissa E. Wechsler",
+      "institution": "University of Colorado Boulder",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5033170988",
+      "research_focus": [
+        "Medicine",
+        "Nanotechnology",
+        "Chemistry",
+        "Materials science",
+        "Biology"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Engineering precision nanoparticles for drug delivery",
+          "year": 2020,
+          "url": "https://doi.org/10.1038/s41573-020-0090-8",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.33."
+        },
+        {
+          "type": "paper",
+          "title": "Engineering the MSC Secretome: A Hydrogel Focused Approach",
+          "year": 2021,
+          "url": "https://doi.org/10.1002/adhm.202001948",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.20."
+        },
+        {
+          "type": "paper",
+          "title": "Advanced biomedical hydrogels: molecular architecture and its impact on medical applications",
+          "year": 2021,
+          "url": "https://doi.org/10.1093/rb/rbab060",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        }
+      ],
+      "why_match": "Marissa E. Wechsler's work on “Engineering precision nanoparticles for drug delivery” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.5525,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of Colorado Boulder doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+Colorado+Boulder+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5033170988",
+        "works_count": 39,
+        "cited_by_count": 8417,
+        "score_breakdown": {
+          "total": 0.5525253871759539,
+          "topical_fit": 0.2608695652173913,
+          "evidence_strength": 1.0,
+          "authority": 0.8604530228362909,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5047304857",
+      "name": "Sean V. Murphy",
+      "institution": "Forest Institute",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5047304857",
+      "research_focus": [
+        "Medicine",
+        "Biology",
+        "Cell biology",
+        "Genetics",
+        "Immunology"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine",
+        "3D bioprinting scaffolds"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "3D bioprinting of tissues and organs",
+          "year": 2014,
+          "url": "https://doi.org/10.1038/nbt.2958",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.25."
+        },
+        {
+          "type": "paper",
+          "title": "Multi-tissue interactions in an integrated three-tissue organ-on-a-chip platform",
+          "year": 2017,
+          "url": "https://doi.org/10.1038/s41598-017-08879-x",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Opportunities and challenges of translational 3D bioprinting",
+          "year": 2019,
+          "url": "https://doi.org/10.1038/s41551-019-0471-7",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.20."
+        }
+      ],
+      "why_match": "Sean V. Murphy's work on “3D bioprinting of tissues and organs” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.5364,
+      "linked_programs_or_positions": [
+        {
+          "title": "Forest Institute doctoral programs",
+          "url": "https://www.google.com/search?q=Forest+Institute+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5047304857",
+        "works_count": 109,
+        "cited_by_count": 15330,
+        "score_breakdown": {
+          "total": 0.5363841672177514,
+          "topical_fit": 0.17391304347826086,
+          "evidence_strength": 1.0,
+          "authority": 0.9971382273931044,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5029687263",
+      "name": "Kuen Yong Lee",
+      "institution": "Harvard University",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5029687263",
+      "research_focus": [
+        "Chemistry",
+        "Materials science",
+        "Biology",
+        "Nanotechnology",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Hydrogels for Tissue Engineering",
+          "year": 2001,
+          "url": "https://doi.org/10.1021/cr000108x",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.13."
+        },
+        {
+          "type": "paper",
+          "title": "Degradation of Partially Oxidized Alginate and Its Potential Application for Tissue Engineering",
+          "year": 2001,
+          "url": "https://doi.org/10.1021/bp010070p",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.15."
+        },
+        {
+          "type": "paper",
+          "title": "T Cell-Specific siRNA Delivery Suppresses HIV-1 Infection in Humanized Mice",
+          "year": 2008,
+          "url": "https://doi.org/10.1016/j.cell.2008.06.034",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.10."
+        }
+      ],
+      "why_match": "Kuen Yong Lee's work on “Hydrogels for Tissue Engineering” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.537,
+      "linked_programs_or_positions": [
+        {
+          "title": "Harvard University doctoral programs",
+          "url": "https://www.google.com/search?q=Harvard+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5029687263",
+        "works_count": 169,
+        "cited_by_count": 25739,
+        "score_breakdown": {
+          "total": 0.5369565217391304,
+          "topical_fit": 0.17391304347826086,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5000267366",
+      "name": "Meadhbh Á. Brennan",
+      "institution": "Harvard University",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5000267366",
+      "research_focus": [
+        "Medicine",
+        "Cell biology",
+        "Chemistry",
+        "Biology",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine",
+        "3D bioprinting scaffolds"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Advances in therapeutic applications of extracellular vesicles",
+          "year": 2019,
+          "url": "https://doi.org/10.1126/scitranslmed.aav8521",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        },
+        {
+          "type": "paper",
+          "title": "Biomaterials Functionalized with MSC Secreted Extracellular Vesicles and Soluble Factors for Tissue Regeneration",
+          "year": 2020,
+          "url": "https://doi.org/10.1002/adfm.201909125",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.15."
+        },
+        {
+          "type": "paper",
+          "title": "Reconstruction of Large Skeletal Defects: Current Clinical Therapeutic Strategies and Future Directions Using 3D Printing",
+          "year": 2020,
+          "url": "https://doi.org/10.3389/fbioe.2020.00061",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.09."
+        }
+      ],
+      "why_match": "Meadhbh Á. Brennan's work on “Advances in therapeutic applications of extracellular vesicles” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.486,
+      "linked_programs_or_positions": [
+        {
+          "title": "Harvard University doctoral programs",
+          "url": "https://www.google.com/search?q=Harvard+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5000267366",
+        "works_count": 47,
+        "cited_by_count": 14480,
+        "score_breakdown": {
+          "total": 0.4859558190139986,
+          "topical_fit": 0.10869565217391304,
+          "evidence_strength": 1.0,
+          "authority": 0.9080399646352102,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5070201038",
+      "name": "Michael J. Mitchell",
+      "institution": "Dalhousie University",
+      "country": "Canada",
+      "profile_url": "https://openalex.org/A5070201038",
+      "research_focus": [
+        "Medicine",
+        "Chemistry",
+        "Biology",
+        "Materials science",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Engineering precision nanoparticles for drug delivery",
+          "year": 2020,
+          "url": "https://doi.org/10.1038/s41573-020-0090-8",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.33."
+        },
+        {
+          "type": "paper",
+          "title": "Delivery technologies for cancer immunotherapy",
+          "year": 2019,
+          "url": "https://doi.org/10.1038/s41573-018-0006-z",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.17."
+        },
+        {
+          "type": "paper",
+          "title": "Advances in Biomaterials for Drug Delivery",
+          "year": 2018,
+          "url": "https://doi.org/10.1002/adma.201705328",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.13."
+        }
+      ],
+      "why_match": "Michael J. Mitchell's work on “Engineering precision nanoparticles for drug delivery” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.537,
+      "linked_programs_or_positions": [
+        {
+          "title": "Dalhousie University doctoral programs",
+          "url": "https://www.google.com/search?q=Dalhousie+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5070201038",
+        "works_count": 248,
+        "cited_by_count": 24130,
+        "score_breakdown": {
+          "total": 0.5369565217391304,
+          "topical_fit": 0.17391304347826086,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5046942201",
+      "name": "Anthony Atala",
+      "institution": "Forest Institute",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5046942201",
+      "research_focus": [
+        "Medicine",
+        "Biology",
+        "Internal medicine",
+        "Cell biology",
+        "Genetics"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine",
+        "3D bioprinting scaffolds"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "3D bioprinting of tissues and organs",
+          "year": 2014,
+          "url": "https://doi.org/10.1038/nbt.2958",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.25."
+        },
+        {
+          "type": "paper",
+          "title": "A 3D bioprinting system to produce human-scale tissue constructs with structural integrity",
+          "year": 2016,
+          "url": "https://doi.org/10.1038/nbt.3413",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.12."
+        },
+        {
+          "type": "paper",
+          "title": "Carbon nanotube applications for tissue engineering",
+          "year": 2006,
+          "url": "https://doi.org/10.1016/j.biomaterials.2006.07.044",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.33."
+        }
+      ],
+      "why_match": "Anthony Atala's work on “3D bioprinting of tissues and organs” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.4352,
+      "linked_programs_or_positions": [
+        {
+          "title": "Forest Institute doctoral programs",
+          "url": "https://www.google.com/search?q=Forest+Institute+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5046942201",
+        "works_count": 1990,
+        "cited_by_count": 81862,
+        "score_breakdown": {
+          "total": 0.43521739130434783,
+          "topical_fit": 0.13043478260869565,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5053752264",
+      "name": "Omid C. Farokhzad",
+      "institution": "Albert Einstein College of Medicine",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5053752264",
+      "research_focus": [
+        "Medicine",
+        "Chemistry",
+        "Materials science",
+        "Biology",
+        "Nanotechnology"
+      ],
+      "matched_student_areas": [
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Impact of Nanotechnology on Drug Delivery",
+          "year": 2009,
+          "url": "https://doi.org/10.1021/nn900002m",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.09."
+        },
+        {
+          "type": "paper",
+          "title": "Degradable Controlled-Release Polymers and Polymeric Nanoparticles: Mechanisms of Controlling Drug Release",
+          "year": 2016,
+          "url": "https://doi.org/10.1021/acs.chemrev.5b00346",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        },
+        {
+          "type": "paper",
+          "title": "Cellular uptake of nanoparticles: journey inside the cell",
+          "year": 2017,
+          "url": "https://doi.org/10.1039/c6cs00636a",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        }
+      ],
+      "why_match": "Omid C. Farokhzad's work on “Impact of Nanotechnology on Drug Delivery” is relevant to the student's interest in hydrogel drug delivery. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.537,
+      "linked_programs_or_positions": [
+        {
+          "title": "Albert Einstein College of Medicine doctoral programs",
+          "url": "https://www.google.com/search?q=Albert+Einstein+College+of+Medicine+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5053752264",
+        "works_count": 302,
+        "cited_by_count": 79874,
+        "score_breakdown": {
+          "total": 0.5369565217391304,
+          "topical_fit": 0.17391304347826086,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5014849817",
+      "name": "Miguel Flores‐Bellver",
+      "institution": "Johns Hopkins University",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5014849817",
+      "research_focus": [
+        "Biology",
+        "Medicine",
+        "Retinal",
+        "Cell biology",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "wound healing and regenerative medicine",
+        "3D bioprinting scaffolds"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Oxidative stress in retinal pigment epithelium cells increases exosome secretion and promotes angiogenesis in endothelial cells",
+          "year": 2016,
+          "url": "https://doi.org/10.1111/jcmm.12834",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Three-dimensional automated reporter quantification (3D-ARQ) technology enables quantitative screening in retinal organoids",
+          "year": 2017,
+          "url": "https://doi.org/10.1242/dev.146290",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        }
+      ],
+      "why_match": "Miguel Flores‐Bellver's work on “Oxidative stress in retinal pigment epithelium cells increases exosome secretion and promotes angiogenesis in endothelial cells” is relevant to the student's interest in wound healing and regenerative medicine. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.2923,
+      "linked_programs_or_positions": [
+        {
+          "title": "Johns Hopkins University doctoral programs",
+          "url": "https://www.google.com/search?q=Johns+Hopkins+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5014849817",
+        "works_count": 56,
+        "cited_by_count": 12809,
+        "score_breakdown": {
+          "total": 0.29228600925900006,
+          "topical_fit": 0.043478260869565216,
+          "evidence_strength": 0.6666666666666666,
+          "authority": 0.919401060787754,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5004455575",
+      "name": "Matthias P. Lütolf",
+      "institution": "Florida Atlantic University",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5004455575",
+      "research_focus": [
+        "Biology",
+        "Stem cell",
+        "Cell biology",
+        "Genetics",
+        "Gene"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Synthetic biomaterials as instructive extracellular microenvironments for morphogenesis in tissue engineering",
+          "year": 2005,
+          "url": "https://doi.org/10.1038/nbt1055",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.38."
+        },
+        {
+          "type": "paper",
+          "title": "Substrate Elasticity Regulates Skeletal Muscle Stem Cell Self-Renewal in Culture",
+          "year": 2010,
+          "url": "https://doi.org/10.1126/science.1191035",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.11."
+        },
+        {
+          "type": "paper",
+          "title": "Synthetic matrix metalloproteinase-sensitive hydrogels for the conduction of tissue regeneration: Engineering cell-invasion characteristics",
+          "year": 2003,
+          "url": "https://doi.org/10.1073/pnas.0737381100",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.15."
+        }
+      ],
+      "why_match": "Matthias P. Lütolf's work on “Synthetic biomaterials as instructive extracellular microenvironments for morphogenesis in tissue engineering” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.5152,
+      "linked_programs_or_positions": [
+        {
+          "title": "Florida Atlantic University doctoral programs",
+          "url": "https://www.google.com/search?q=Florida+Atlantic+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5004455575",
+        "works_count": 289,
+        "cited_by_count": 37062,
+        "score_breakdown": {
+          "total": 0.5152173913043478,
+          "topical_fit": 0.13043478260869565,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5001336137",
+      "name": "David Mooney",
+      "institution": "Boston University",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5001336137",
+      "research_focus": [
+        "Medicine",
+        "Biology",
+        "Biomedical engineering",
+        "Computer science",
+        "Immunology"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Hydrogels for Tissue Engineering",
+          "year": 2001,
+          "url": "https://doi.org/10.1021/cr000108x",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.13."
+        },
+        {
+          "type": "paper",
+          "title": "Hydrogels for tissue engineering: scaffold design variables and applications",
+          "year": 2003,
+          "url": "https://doi.org/10.1016/s0142-9612(03)00340-5",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.25."
+        },
+        {
+          "type": "paper",
+          "title": "Designing hydrogels for controlled drug delivery",
+          "year": 2016,
+          "url": "https://doi.org/10.1038/natrevmats.2016.71",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.33."
+        }
+      ],
+      "why_match": "David Mooney's work on “Hydrogels for Tissue Engineering” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.5004,
+      "linked_programs_or_positions": [
+        {
+          "title": "Boston University doctoral programs",
+          "url": "https://www.google.com/search?q=Boston+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5001336137",
+        "works_count": 1697,
+        "cited_by_count": 131622,
+        "score_breakdown": {
+          "total": 0.5004347826086958,
+          "topical_fit": 0.2608695652173913,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5083186525",
+      "name": "David R. Brigstock",
+      "institution": "Harvard University",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5083186525",
+      "research_focus": [
+        "Medicine",
+        "Biology",
+        "Receptor",
+        "Growth factor",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "The Connective Tissue Growth Factor/Cysteine- Rich 61/Nephroblastoma Overexpressed (CCN) Family*",
+          "year": 1999,
+          "url": "https://doi.org/10.1210/edrv.20.2.0360",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Connective Tissue Growth Factor: What's in a Name?",
+          "year": 2000,
+          "url": "https://doi.org/10.1006/mgme.2000.3059",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.12."
+        },
+        {
+          "type": "paper",
+          "title": "The Connective Tissue Growth Factor/Cysteine- Rich 61/Nephroblastoma Overexpressed (CCN) Family",
+          "year": 1999,
+          "url": "https://doi.org/10.1210/er.20.2.189",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.08."
+        }
+      ],
+      "why_match": "David R. Brigstock's work on “The Connective Tissue Growth Factor/Cysteine- Rich 61/Nephroblastoma Overexpressed (CCN) Family*” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.4935,
+      "linked_programs_or_positions": [
+        {
+          "title": "Harvard University doctoral programs",
+          "url": "https://www.google.com/search?q=Harvard+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5083186525",
+        "works_count": 142,
+        "cited_by_count": 19039,
+        "score_breakdown": {
+          "total": 0.4934782608695652,
+          "topical_fit": 0.08695652173913043,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5109566972",
+      "name": "Harold F. Dvorak",
+      "institution": "Boston University",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5109566972",
+      "research_focus": [
+        "Medicine",
+        "Biology",
+        "Pathology",
+        "Biochemistry",
+        "Immunology"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Analysis of nanoparticle delivery to tumours",
+          "year": 2016,
+          "url": "https://doi.org/10.1038/natrevmats.2016.14",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.20."
+        },
+        {
+          "type": "paper",
+          "title": "Tumor Cells Secrete a Vascular Permeability Factor That Promotes Accumulation of Ascites Fluid",
+          "year": 1983,
+          "url": "https://doi.org/10.1126/science.6823562",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Vascular permeability factor (vascular endothelial growth factor) gene is expressed differentially in normal tissues, macrophages, and tumors.",
+          "year": 1992,
+          "url": "https://doi.org/10.1091/mbc.3.2.211",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        }
+      ],
+      "why_match": "Harold F. Dvorak's work on “Analysis of nanoparticle delivery to tumours” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.4935,
+      "linked_programs_or_positions": [
+        {
+          "title": "Boston University doctoral programs",
+          "url": "https://www.google.com/search?q=Boston+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5109566972",
+        "works_count": 361,
+        "cited_by_count": 61248,
+        "score_breakdown": {
+          "total": 0.4934782608695652,
+          "topical_fit": 0.08695652173913043,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5012312127",
+      "name": "Warren C. W. Chan",
+      "institution": "California Institute of Technology",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5012312127",
+      "research_focus": [
+        "Chemistry",
+        "Nanoparticle",
+        "Nanotechnology",
+        "Materials science",
+        "Biology"
+      ],
+      "matched_student_areas": [
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Analysis of nanoparticle delivery to tumours",
+          "year": 2016,
+          "url": "https://doi.org/10.1038/natrevmats.2016.14",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.20."
+        },
+        {
+          "type": "paper",
+          "title": "Determining the Size and Shape Dependence of Gold Nanoparticle Uptake into Mammalian Cells",
+          "year": 2006,
+          "url": "https://doi.org/10.1021/nl052396o",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.13."
+        },
+        {
+          "type": "paper",
+          "title": "The Effect of Nanoparticle Size, Shape, and Surface Chemistry on Biological Systems",
+          "year": 2012,
+          "url": "https://doi.org/10.1146/annurev-bioeng-071811-150124",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.09."
+        }
+      ],
+      "why_match": "Warren C. W. Chan's work on “Analysis of nanoparticle delivery to tumours” is relevant to the student's interest in hydrogel drug delivery. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.4935,
+      "linked_programs_or_positions": [
+        {
+          "title": "California Institute of Technology doctoral programs",
+          "url": "https://www.google.com/search?q=California+Institute+of+Technology+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5012312127",
+        "works_count": 267,
+        "cited_by_count": 71087,
+        "score_breakdown": {
+          "total": 0.4934782608695652,
+          "topical_fit": 0.08695652173913043,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5079685304",
+      "name": "Margaret M. Billingsley",
+      "institution": "California University of Pennsylvania",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5079685304",
+      "research_focus": [
+        "Chemistry",
+        "Biology",
+        "Immune system",
+        "Cancer research",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Engineering precision nanoparticles for drug delivery",
+          "year": 2020,
+          "url": "https://doi.org/10.1038/s41573-020-0090-8",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.33."
+        },
+        {
+          "type": "paper",
+          "title": "Ionizable Lipid Nanoparticle-Mediated mRNA Delivery for Human CAR T Cell Engineering",
+          "year": 2020,
+          "url": "https://doi.org/10.1021/acs.nanolett.9b04246",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        },
+        {
+          "type": "paper",
+          "title": "Ionizable lipid nanoparticles encapsulating barcoded mRNA for accelerated in vivo delivery screening",
+          "year": 2019,
+          "url": "https://doi.org/10.1016/j.jconrel.2019.10.028",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.08."
+        }
+      ],
+      "why_match": "Margaret M. Billingsley's work on “Engineering precision nanoparticles for drug delivery” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.4884,
+      "linked_programs_or_positions": [
+        {
+          "title": "California University of Pennsylvania doctoral programs",
+          "url": "https://www.google.com/search?q=California+University+of+Pennsylvania+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5079685304",
+        "works_count": 61,
+        "cited_by_count": 11083,
+        "score_breakdown": {
+          "total": 0.4884444407095796,
+          "topical_fit": 0.10869565217391304,
+          "evidence_strength": 1.0,
+          "authority": 0.9204830731131153,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5059573074",
+      "name": "Xandra O. Breakefield",
+      "institution": "Boston University",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5059573074",
+      "research_focus": [
+        "Medicine",
+        "Biology",
+        "Genetics",
+        "Gene",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "RNA delivery by extracellular vesicles in mammalian cells and its applications",
+          "year": 2020,
+          "url": "https://doi.org/10.1038/s41580-020-0251-y",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.10."
+        },
+        {
+          "type": "paper",
+          "title": "Extracellular Vesicles: Unique Intercellular Delivery Vehicles",
+          "year": 2016,
+          "url": "https://doi.org/10.1016/j.tcb.2016.11.003",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.12."
+        },
+        {
+          "type": "paper",
+          "title": "Vesiclepedia: A Compendium for Extracellular Vesicles with Continuous Community Annotation",
+          "year": 2012,
+          "url": "https://doi.org/10.1371/journal.pbio.1001450",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        }
+      ],
+      "why_match": "Xandra O. Breakefield's work on “RNA delivery by extracellular vesicles in mammalian cells and its applications” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.4826,
+      "linked_programs_or_positions": [
+        {
+          "title": "Boston University doctoral programs",
+          "url": "https://www.google.com/search?q=Boston+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5059573074",
+        "works_count": 387,
+        "cited_by_count": 63366,
+        "score_breakdown": {
+          "total": 0.4826086956521739,
+          "topical_fit": 0.06521739130434782,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5031762651",
+      "name": "Rebecca M. Haley",
+      "institution": "Emory University",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5031762651",
+      "research_focus": [
+        "Medicine",
+        "Biology",
+        "Chemistry",
+        "Gene",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Engineering precision nanoparticles for drug delivery",
+          "year": 2020,
+          "url": "https://doi.org/10.1038/s41573-020-0090-8",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.33."
+        },
+        {
+          "type": "paper",
+          "title": "Responsive biomaterials: optimizing control of cancer immunotherapy",
+          "year": 2023,
+          "url": "https://doi.org/10.1038/s41578-023-00617-2",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.12."
+        },
+        {
+          "type": "paper",
+          "title": "Localized and targeted delivery of NSAIDs for treatment of inflammation: A review",
+          "year": 2018,
+          "url": "https://doi.org/10.1177/1535370218787770",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        }
+      ],
+      "why_match": "Rebecca M. Haley's work on “Engineering precision nanoparticles for drug delivery” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.4812,
+      "linked_programs_or_positions": [
+        {
+          "title": "Emory University doctoral programs",
+          "url": "https://www.google.com/search?q=Emory+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5031762651",
+        "works_count": 29,
+        "cited_by_count": 8271,
+        "score_breakdown": {
+          "total": 0.4811504623842678,
+          "topical_fit": 0.13043478260869565,
+          "evidence_strength": 1.0,
+          "authority": 0.8296653553995996,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5078835957",
+      "name": "Kenneth W. Witwer",
+      "institution": "University of Maryland, Baltimore",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5078835957",
+      "research_focus": [
+        "Biology",
+        "microRNA",
+        "Cell biology",
+        "Gene",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Standardization of sample collection, isolation and analysis methods in extracellular vesicle research",
+          "year": 2013,
+          "url": "https://doi.org/10.3402/jev.v2i0.20360",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        },
+        {
+          "type": "paper",
+          "title": "Techniques used for the isolation and characterization of extracellular vesicles: results of a worldwide survey",
+          "year": 2016,
+          "url": "https://doi.org/10.3402/jev.v5.32945",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Obstacles and opportunities in the functional analysis of extracellular vesicle RNA – an ISEV position paper",
+          "year": 2017,
+          "url": "https://doi.org/10.1080/20013078.2017.1286095",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        }
+      ],
+      "why_match": "Kenneth W. Witwer's work on “Standardization of sample collection, isolation and analysis methods in extracellular vesicle research” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.4717,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of Maryland, Baltimore doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+Maryland%2C+Baltimore+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5078835957",
+        "works_count": 256,
+        "cited_by_count": 37003,
+        "score_breakdown": {
+          "total": 0.4717391304347826,
+          "topical_fit": 0.043478260869565216,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5052032218",
+      "name": "Anthony J. Tavares",
+      "institution": "University of Toronto",
+      "country": "Canada",
+      "profile_url": "https://openalex.org/A5052032218",
+      "research_focus": [
+        "Chemistry",
+        "Materials science",
+        "Nanotechnology",
+        "Biochemistry",
+        "Physics"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Analysis of nanoparticle delivery to tumours",
+          "year": 2016,
+          "url": "https://doi.org/10.1038/natrevmats.2016.14",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.20."
+        },
+        {
+          "type": "paper",
+          "title": "The dose threshold for nanoparticle tumour delivery",
+          "year": 2020,
+          "url": "https://doi.org/10.1038/s41563-020-0755-z",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.14."
+        },
+        {
+          "type": "paper",
+          "title": "Effect of removing Kupffer cells on nanoparticle tumor delivery",
+          "year": 2017,
+          "url": "https://doi.org/10.1073/pnas.1713390114",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        }
+      ],
+      "why_match": "Anthony J. Tavares's work on “Analysis of nanoparticle delivery to tumours” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.4655,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of Toronto doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+Toronto+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5052032218",
+        "works_count": 23,
+        "cited_by_count": 8173,
+        "score_breakdown": {
+          "total": 0.46552220997403115,
+          "topical_fit": 0.10869565217391304,
+          "evidence_strength": 1.0,
+          "authority": 0.8058719194353732,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5042597057",
+      "name": "Róbert Langer",
+      "institution": "Boston University",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5042597057",
+      "research_focus": [
+        "Medicine",
+        "Chemistry",
+        "Materials science",
+        "Biology",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Tissue Engineering",
+          "year": 1993,
+          "url": "https://doi.org/10.1126/science.8493529",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.06."
+        },
+        {
+          "type": "paper",
+          "title": "Engineering precision nanoparticles for drug delivery",
+          "year": 2020,
+          "url": "https://doi.org/10.1038/s41573-020-0090-8",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.33."
+        },
+        {
+          "type": "paper",
+          "title": "Hydrogels in Biology and Medicine: From Molecular Principles to Bionanotechnology",
+          "year": 2006,
+          "url": "https://doi.org/10.1002/adma.200501612",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.11."
+        }
+      ],
+      "why_match": "Róbert Langer's work on “Tissue Engineering” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "target",
+      "score": 0.457,
+      "linked_programs_or_positions": [
+        {
+          "title": "Boston University doctoral programs",
+          "url": "https://www.google.com/search?q=Boston+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5042597057",
+        "works_count": 1955,
+        "cited_by_count": 296889,
+        "score_breakdown": {
+          "total": 0.45695652173913043,
+          "topical_fit": 0.17391304347826086,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5072521797",
+      "name": "Johnathon D. Anderson",
+      "institution": "University of California System",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5072521797",
+      "research_focus": [
+        "Medicine",
+        "Biology",
+        "Cell biology",
+        "Gene",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Comprehensive Proteomic Analysis of Mesenchymal Stem Cell Exosomes Reveals Modulation of Angiogenesis via Nuclear Factor-KappaB Signaling",
+          "year": 2016,
+          "url": "https://doi.org/10.1002/stem.2298",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.09."
+        },
+        {
+          "type": "paper",
+          "title": "International Society for Extracellular Vesicles and International Society for Cell and Gene Therapy statement on extracellular vesicles from mesenchymal stromal cells and other cells: considerations for potential therapeutic agents to suppress coronavirus disease-19",
+          "year": 2020,
+          "url": "https://doi.org/10.1016/j.jcyt.2020.05.002",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.09."
+        },
+        {
+          "type": "paper",
+          "title": "Primed mesenchymal stem cells package exosomes with metabolites associated with immunomodulation",
+          "year": 2019,
+          "url": "https://doi.org/10.1016/j.bbrc.2019.03.119",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        }
+      ],
+      "why_match": "Johnathon D. Anderson's work on “Comprehensive Proteomic Analysis of Mesenchymal Stem Cell Exosomes Reveals Modulation of Angiogenesis via Nuclear Factor-KappaB Signaling” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.4485,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of California System doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+California+System+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5072521797",
+        "works_count": 39,
+        "cited_by_count": 13041,
+        "score_breakdown": {
+          "total": 0.4484559349120941,
+          "topical_fit": 0.043478260869565216,
+          "evidence_strength": 1.0,
+          "authority": 0.8835840223865576,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5021544404",
+      "name": "Jinjun Shi",
+      "institution": "Harvard University",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5021544404",
+      "research_focus": [
+        "Medicine",
+        "Chemistry",
+        "Materials science",
+        "Biology",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Nanotechnology in Drug Delivery and Tissue Engineering: From Discovery to Applications",
+          "year": 2010,
+          "url": "https://doi.org/10.1021/nl102184c",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.11."
+        },
+        {
+          "type": "paper",
+          "title": "Black Phosphorus Nanosheets as a Robust Delivery Platform for Cancer Theranostics",
+          "year": 2016,
+          "url": "https://doi.org/10.1002/adma.201603276",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Antimonene Quantum Dots: Synthesis and Application as Near‐Infrared Photothermal Agents for Effective Cancer Therapy",
+          "year": 2017,
+          "url": "https://doi.org/10.1002/anie.201703657",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        }
+      ],
+      "why_match": "Jinjun Shi's work on “Nanotechnology in Drug Delivery and Tissue Engineering: From Discovery to Applications” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.4461,
+      "linked_programs_or_positions": [
+        {
+          "title": "Harvard University doctoral programs",
+          "url": "https://www.google.com/search?q=Harvard+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5021544404",
+        "works_count": 190,
+        "cited_by_count": 25334,
+        "score_breakdown": {
+          "total": 0.4460869565217392,
+          "topical_fit": 0.15217391304347827,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5065891926",
+      "name": "David R. F. Carter",
+      "institution": "Oxford Brookes University",
+      "country": "United Kingdom",
+      "profile_url": "https://openalex.org/A5065891926",
+      "research_focus": [
+        "Biology",
+        "Cell biology",
+        "Gene",
+        "Genetics",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Long Noncoding RNAs, Chromatin, and Development",
+          "year": 2010,
+          "url": "https://doi.org/10.1100/tsw.2010.7",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Fetal Bovine Serum RNA Interferes with the Cell Culture derived Extracellular RNA",
+          "year": 2016,
+          "url": "https://doi.org/10.1038/srep31175",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "International Society for Extracellular Vesicles and International Society for Cell and Gene Therapy statement on extracellular vesicles from mesenchymal stromal cells and other cells: considerations for potential therapeutic agents to suppress coronavirus disease-19",
+          "year": 2020,
+          "url": "https://doi.org/10.1016/j.jcyt.2020.05.002",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.09."
+        }
+      ],
+      "why_match": "David R. F. Carter's work on “Long Noncoding RNAs, Chromatin, and Development” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.4443,
+      "linked_programs_or_positions": [
+        {
+          "title": "Oxford Brookes University doctoral programs",
+          "url": "https://www.google.com/search?q=Oxford+Brookes+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5065891926",
+        "works_count": 30,
+        "cited_by_count": 14539,
+        "score_breakdown": {
+          "total": 0.4443129579011429,
+          "topical_fit": 0.043478260869565216,
+          "evidence_strength": 1.0,
+          "authority": 0.8628691373318016,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5009163427",
+      "name": "D. Craig Ayre",
+      "institution": "Memorial University of Newfoundland",
+      "country": "Canada",
+      "profile_url": "https://openalex.org/A5009163427",
+      "research_focus": [
+        "Biology",
+        "Cell biology",
+        "Chemistry",
+        "Gene",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Dynamic regulation of <scp>CD</scp>24 expression and release of <scp>CD</scp>24‐containing microvesicles in immature B cells in response to <scp>CD</scp>24 engagement",
+          "year": 2015,
+          "url": "https://doi.org/10.1111/imm.12493",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        },
+        {
+          "type": "paper",
+          "title": "Proteome profiling of extracellular vesicles captured with the affinity peptide Vn96: comparison of Laemmli and TRIzol© protein‐extraction methods",
+          "year": 2018,
+          "url": "https://doi.org/10.1080/20013078.2018.1438727",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Loss of CD24 in Mice Leads to Metabolic Dysfunctions and a Reduction in White Adipocyte Tissue",
+          "year": 2015,
+          "url": "https://doi.org/10.1371/journal.pone.0141966",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        }
+      ],
+      "why_match": "D. Craig Ayre's work on “Dynamic regulation of <scp>CD</scp>24 expression and release of <scp>CD</scp>24‐containing microvesicles in immature B cells in response to <scp>CD</scp>24 engagement” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.4376,
+      "linked_programs_or_positions": [
+        {
+          "title": "Memorial University of Newfoundland doctoral programs",
+          "url": "https://www.google.com/search?q=Memorial+University+of+Newfoundland+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5009163427",
+        "works_count": 14,
+        "cited_by_count": 11414,
+        "score_breakdown": {
+          "total": 0.4375542029102728,
+          "topical_fit": 0.06521739130434782,
+          "evidence_strength": 1.0,
+          "authority": 0.7747275362904944,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5050614530",
+      "name": "Solomon Habtemariam",
+      "institution": "University of London",
+      "country": "United Kingdom",
+      "profile_url": "https://openalex.org/A5050614530",
+      "research_focus": [
+        "Chemistry",
+        "Medicine",
+        "Biology",
+        "Pharmacology",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Nano based drug delivery systems: recent developments and future prospects",
+          "year": 2018,
+          "url": "https://doi.org/10.1186/s12951-018-0392-8",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.09."
+        },
+        {
+          "type": "paper",
+          "title": "Flavonoid biosynthetic pathways in plants: Versatile targets for metabolic engineering",
+          "year": 2018,
+          "url": "https://doi.org/10.1016/j.biotechadv.2018.11.005",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.10."
+        },
+        {
+          "type": "paper",
+          "title": "Perspective on the application of medicinal plants and natural products in wound healing: A mechanistic review",
+          "year": 2021,
+          "url": "https://doi.org/10.1016/j.phrs.2021.105841",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.17."
+        }
+      ],
+      "why_match": "Solomon Habtemariam's work on “Nano based drug delivery systems: recent developments and future prospects” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.4352,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of London doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+London+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5050614530",
+        "works_count": 340,
+        "cited_by_count": 18816,
+        "score_breakdown": {
+          "total": 0.43521739130434783,
+          "topical_fit": 0.13043478260869565,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5040553729",
+      "name": "Seiichi Ohta",
+      "institution": "University of Toronto",
+      "country": "Canada",
+      "profile_url": "https://openalex.org/A5040553729",
+      "research_focus": [
+        "Chemistry",
+        "Biology",
+        "Materials science",
+        "Environmental science",
+        "Organic chemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Analysis of nanoparticle delivery to tumours",
+          "year": 2016,
+          "url": "https://doi.org/10.1038/natrevmats.2016.14",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.20."
+        },
+        {
+          "type": "paper",
+          "title": "Injectable Hydrogel with Slow Degradability Composed of Gelatin and Hyaluronic Acid Cross-Linked by Schiff’s Base Formation",
+          "year": 2017,
+          "url": "https://doi.org/10.1021/acs.biomac.7b01133",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.15."
+        },
+        {
+          "type": "paper",
+          "title": "DNA-controlled dynamic colloidal nanoparticle systems for mediating cellular interaction",
+          "year": 2016,
+          "url": "https://doi.org/10.1126/science.aad4925",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        }
+      ],
+      "why_match": "Seiichi Ohta's work on “Analysis of nanoparticle delivery to tumours” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.4352,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of Toronto doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+Toronto+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5040553729",
+        "works_count": 230,
+        "cited_by_count": 8915,
+        "score_breakdown": {
+          "total": 0.43521739130434783,
+          "topical_fit": 0.13043478260869565,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5081502149",
+      "name": "Steven J. Siegel",
+      "institution": "University of Southern California",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5081502149",
+      "research_focus": [
+        "Medicine",
+        "Psychology",
+        "Neuroscience",
+        "Psychiatry",
+        "Internal medicine"
+      ],
+      "matched_student_areas": [
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Poly Lactic-co-Glycolic Acid (PLGA) as Biodegradable Controlled Drug Delivery Carrier",
+          "year": 2011,
+          "url": "https://doi.org/10.3390/polym3031377",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.11."
+        },
+        {
+          "type": "paper",
+          "title": "Haloperidol-loaded PLGA nanoparticles: Systematic study of particle size and drug content",
+          "year": 2006,
+          "url": "https://doi.org/10.1016/j.ijpharm.2006.11.061",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.10."
+        }
+      ],
+      "why_match": "Steven J. Siegel's work on “Poly Lactic-co-Glycolic Acid (PLGA) as Biodegradable Controlled Drug Delivery Carrier” is relevant to the student's interest in hydrogel drug delivery. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.4143,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of Southern California doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+Southern+California+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5081502149",
+        "works_count": 236,
+        "cited_by_count": 19060,
+        "score_breakdown": {
+          "total": 0.41428571428571426,
+          "topical_fit": 0.09523809523809523,
+          "evidence_strength": 0.6666666666666666,
+          "authority": 1.0,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5057737803",
+      "name": "Stefan Wilhelm",
+      "institution": "Tulane University",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5057737803",
+      "research_focus": [
+        "Medicine",
+        "Materials science",
+        "Chemistry",
+        "Nanotechnology",
+        "Internal medicine"
+      ],
+      "matched_student_areas": [
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Analysis of nanoparticle delivery to tumours",
+          "year": 2016,
+          "url": "https://doi.org/10.1038/natrevmats.2016.14",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.20."
+        },
+        {
+          "type": "paper",
+          "title": "Quantifying the Ligand-Coated Nanoparticle Delivery to Cancer Cells in Solid Tumors",
+          "year": 2018,
+          "url": "https://doi.org/10.1021/acsnano.8b03900",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Elimination Pathways of Nanoparticles",
+          "year": 2019,
+          "url": "https://doi.org/10.1021/acsnano.9b01383",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        }
+      ],
+      "why_match": "Stefan Wilhelm's work on “Analysis of nanoparticle delivery to tumours” is relevant to the student's interest in hydrogel drug delivery. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.4135,
+      "linked_programs_or_positions": [
+        {
+          "title": "Tulane University doctoral programs",
+          "url": "https://www.google.com/search?q=Tulane+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5057737803",
+        "works_count": 245,
+        "cited_by_count": 15700,
+        "score_breakdown": {
+          "total": 0.4134782608695652,
+          "topical_fit": 0.08695652173913043,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5086641002",
+      "name": "Aled Clayton",
+      "institution": "University College London",
+      "country": "United Kingdom",
+      "profile_url": "https://openalex.org/A5086641002",
+      "research_focus": [
+        "Cell biology",
+        "Biology",
+        "Medicine",
+        "Biochemistry",
+        "Gene"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Isolation and Characterization of Exosomes from Cell Culture Supernatants and Biological Fluids",
+          "year": 2006,
+          "url": "https://doi.org/10.1002/0471143030.cb0322s30",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Vesiclepedia: A Compendium for Extracellular Vesicles with Continuous Community Annotation",
+          "year": 2012,
+          "url": "https://doi.org/10.1371/journal.pbio.1001450",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        },
+        {
+          "type": "paper",
+          "title": "Cancer Exosomes Trigger Fibroblast to Myofibroblast Differentiation",
+          "year": 2010,
+          "url": "https://doi.org/10.1158/0008-5472.can-10-1722",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        }
+      ],
+      "why_match": "Aled Clayton's work on “Isolation and Characterization of Exosomes from Cell Culture Supernatants and Biological Fluids” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.4026,
+      "linked_programs_or_positions": [
+        {
+          "title": "University College London doctoral programs",
+          "url": "https://www.google.com/search?q=University+College+London+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5086641002",
+        "works_count": 151,
+        "cited_by_count": 31278,
+        "score_breakdown": {
+          "total": 0.4026086956521739,
+          "topical_fit": 0.06521739130434782,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5064277553",
+      "name": "Analiz Rodriguez",
+      "institution": "University of Arkansas at Little Rock",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5064277553",
+      "research_focus": [
+        "Medicine",
+        "Biology",
+        "Cancer research",
+        "Internal medicine",
+        "Gene"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Foreign body reaction to biomaterials",
+          "year": 2008,
+          "url": "https://doi.org/10.1016/j.smim.2007.11.004",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.17."
+        },
+        {
+          "type": "paper",
+          "title": "Oncolytic DNX-2401 virotherapy plus pembrolizumab in recurrent glioblastoma: a phase 1/2 trial",
+          "year": 2023,
+          "url": "https://doi.org/10.1038/s41591-023-02347-y",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Chimeric Antigen Receptors T Cell Therapy in Solid Tumor: Challenges and Clinical Applications",
+          "year": 2017,
+          "url": "https://doi.org/10.3389/fimmu.2017.01850",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        }
+      ],
+      "why_match": "Analiz Rodriguez's work on “Foreign body reaction to biomaterials” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.4026,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of Arkansas at Little Rock doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+Arkansas+at+Little+Rock+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5064277553",
+        "works_count": 181,
+        "cited_by_count": 7733,
+        "score_breakdown": {
+          "total": 0.4026086956521739,
+          "topical_fit": 0.06521739130434782,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5061176573",
+      "name": "David T. Chang",
+      "institution": "Johns Hopkins University",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5061176573",
+      "research_focus": [
+        "Medicine",
+        "Materials science",
+        "Optoelectronics",
+        "Composite material",
+        "Physics"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Foreign body reaction to biomaterials",
+          "year": 2008,
+          "url": "https://doi.org/10.1016/j.smim.2007.11.004",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.17."
+        },
+        {
+          "type": "paper",
+          "title": "Proteomic analysis and quantification of cytokines and chemokines from biomaterial surface‐adherent macrophages and foreign body giant cells",
+          "year": 2007,
+          "url": "https://doi.org/10.1002/jbm.a.31221",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        }
+      ],
+      "why_match": "David T. Chang's work on “Foreign body reaction to biomaterials” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.4021,
+      "linked_programs_or_positions": [
+        {
+          "title": "Johns Hopkins University doctoral programs",
+          "url": "https://www.google.com/search?q=Johns+Hopkins+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5061176573",
+        "works_count": 97,
+        "cited_by_count": 9452,
+        "score_breakdown": {
+          "total": 0.4020648237833296,
+          "topical_fit": 0.08695652173913043,
+          "evidence_strength": 0.6666666666666666,
+          "authority": 0.9595994812354885,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5102202287",
+      "name": "Qin Dai",
+      "institution": "University of Toronto",
+      "country": "Canada",
+      "profile_url": "https://openalex.org/A5102202287",
+      "research_focus": [
+        "Medicine",
+        "Chemistry",
+        "Internal medicine",
+        "Biology",
+        "Organic chemistry"
+      ],
+      "matched_student_areas": [
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Analysis of nanoparticle delivery to tumours",
+          "year": 2016,
+          "url": "https://doi.org/10.1038/natrevmats.2016.14",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.20."
+        },
+        {
+          "type": "paper",
+          "title": "Quantifying the Ligand-Coated Nanoparticle Delivery to Cancer Cells in Solid Tumors",
+          "year": 2018,
+          "url": "https://doi.org/10.1021/acsnano.8b03900",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Are Quantum Dots Toxic? Exploring the Discrepancy Between Cell Culture and Animal Studies",
+          "year": 2012,
+          "url": "https://doi.org/10.1021/ar300040z",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.13."
+        }
+      ],
+      "why_match": "Qin Dai's work on “Analysis of nanoparticle delivery to tumours” is relevant to the student's interest in hydrogel drug delivery. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.4018,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of Toronto doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+Toronto+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5102202287",
+        "works_count": 83,
+        "cited_by_count": 9101,
+        "score_breakdown": {
+          "total": 0.4017979586273888,
+          "topical_fit": 0.08695652173913043,
+          "evidence_strength": 1.0,
+          "authority": 0.9415984887891182,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5064521237",
+      "name": "Elena Aïkawa",
+      "institution": "University of North Carolina at Chapel Hill",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5064521237",
+      "research_focus": [
+        "Medicine",
+        "Biology",
+        "Internal medicine",
+        "Pathology",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "The healing myocardium sequentially mobilizes two monocyte subsets with divergent and complementary functions",
+          "year": 2007,
+          "url": "https://doi.org/10.1084/jem.20070885",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Identification of Splenic Reservoir Monocytes and Their Deployment to Inflammatory Sites",
+          "year": 2009,
+          "url": "https://doi.org/10.1126/science.1175202",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        },
+        {
+          "type": "paper",
+          "title": "Vesiclepedia: A Compendium for Extracellular Vesicles with Continuous Community Annotation",
+          "year": 2012,
+          "url": "https://doi.org/10.1371/journal.pbio.1001450",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        }
+      ],
+      "why_match": "Elena Aïkawa's work on “The healing myocardium sequentially mobilizes two monocyte subsets with divergent and complementary functions” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.397,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of North Carolina at Chapel Hill doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+North+Carolina+at+Chapel+Hill+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5064521237",
+        "works_count": 499,
+        "cited_by_count": 44489,
+        "score_breakdown": {
+          "total": 0.397027027027027,
+          "topical_fit": 0.05405405405405406,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5034862467",
+      "name": "Julie Audet",
+      "institution": "University of British Columbia",
+      "country": "Canada",
+      "profile_url": "https://openalex.org/A5034862467",
+      "research_focus": [
+        "Chemistry",
+        "Biology",
+        "Stem cell",
+        "Cell biology",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Analysis of nanoparticle delivery to tumours",
+          "year": 2016,
+          "url": "https://doi.org/10.1038/natrevmats.2016.14",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.20."
+        },
+        {
+          "type": "paper",
+          "title": "Current techniques for single-cell lysis",
+          "year": 2008,
+          "url": "https://doi.org/10.1098/rsif.2008.0009.focus",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Automated Digital Microfluidic Platform for Magnetic-Particle-Based Immunoassays with Optimization by Design of Experiments",
+          "year": 2013,
+          "url": "https://doi.org/10.1021/ac401847x",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        }
+      ],
+      "why_match": "Julie Audet's work on “Analysis of nanoparticle delivery to tumours” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.3942,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of British Columbia doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+British+Columbia+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5034862467",
+        "works_count": 68,
+        "cited_by_count": 6504,
+        "score_breakdown": {
+          "total": 0.39416434318237953,
+          "topical_fit": 0.08695652173913043,
+          "evidence_strength": 1.0,
+          "authority": 0.9034304115640719,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5029308902",
+      "name": "Dylan Burger",
+      "institution": "Western University",
+      "country": "Canada",
+      "profile_url": "https://openalex.org/A5029308902",
+      "research_focus": [
+        "Medicine",
+        "Internal medicine",
+        "Biology",
+        "Cell biology",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Urinary extracellular vesicles: A position paper by the Urine Task Force of the International Society for Extracellular Vesicles",
+          "year": 2021,
+          "url": "https://doi.org/10.1002/jev2.12093",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        },
+        {
+          "type": "paper",
+          "title": "Adipocytes Produce Aldosterone Through Calcineurin-Dependent Signaling Pathways",
+          "year": 2012,
+          "url": "https://doi.org/10.1161/hypertensionaha.111.190223",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "May Measurement Month 2019",
+          "year": 2020,
+          "url": "https://doi.org/10.1161/hypertensionaha.120.14874",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        }
+      ],
+      "why_match": "Dylan Burger's work on “Urinary extracellular vesicles: A position paper by the Urine Task Force of the International Society for Extracellular Vesicles” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.3917,
+      "linked_programs_or_positions": [
+        {
+          "title": "Western University doctoral programs",
+          "url": "https://www.google.com/search?q=Western+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5029308902",
+        "works_count": 237,
+        "cited_by_count": 23374,
+        "score_breakdown": {
+          "total": 0.3917391304347826,
+          "topical_fit": 0.043478260869565216,
+          "evidence_strength": 1.0,
+          "authority": 1.0,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5065971122",
+      "name": "James Brian Byrd",
+      "institution": "University of Minnesota",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5065971122",
+      "research_focus": [
+        "Medicine",
+        "Blood pressure",
+        "Internal medicine",
+        "Biology",
+        "Disease"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Urinary extracellular vesicles: A position paper by the Urine Task Force of the International Society for Extracellular Vesicles",
+          "year": 2021,
+          "url": "https://doi.org/10.1002/jev2.12093",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        },
+        {
+          "type": "paper",
+          "title": "Clinical Characterization and Prediction of Clinical Severity of SARS-CoV-2 Infection Among US Adults Using Data From the US National COVID Cohort Collaborative",
+          "year": 2021,
+          "url": "https://doi.org/10.1001/jamanetworkopen.2021.16901",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        }
+      ],
+      "why_match": "James Brian Byrd's work on “Urinary extracellular vesicles: A position paper by the Urine Task Force of the International Society for Extracellular Vesicles” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.3884,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of Minnesota doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+Minnesota+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5065971122",
+        "works_count": 125,
+        "cited_by_count": 16905,
+        "score_breakdown": {
+          "total": 0.3884057971014493,
+          "topical_fit": 0.043478260869565216,
+          "evidence_strength": 0.6666666666666666,
+          "authority": 1.0,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5078017816",
+      "name": "Jason E. Fish",
+      "institution": "University of New Brunswick",
+      "country": "Canada",
+      "profile_url": "https://openalex.org/A5078017816",
+      "research_focus": [
+        "Medicine",
+        "Biology",
+        "Cell biology",
+        "Gene",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "The Ribosomal Database Project: improved alignments and new tools for rRNA analysis",
+          "year": 2008,
+          "url": "https://doi.org/10.1093/nar/gkn879",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Single cell RNA sequencing of human liver reveals distinct intrahepatic macrophage populations",
+          "year": 2018,
+          "url": "https://doi.org/10.1038/s41467-018-06318-7",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        }
+      ],
+      "why_match": "Jason E. Fish's work on “The Ribosomal Database Project: improved alignments and new tools for rRNA analysis” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.3884,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of New Brunswick doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+New+Brunswick+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5078017816",
+        "works_count": 163,
+        "cited_by_count": 27012,
+        "score_breakdown": {
+          "total": 0.3884057971014493,
+          "topical_fit": 0.043478260869565216,
+          "evidence_strength": 0.6666666666666666,
+          "authority": 1.0,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5040199755",
+      "name": "Emanuele Cocucci",
+      "institution": "Harvard University",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5040199755",
+      "research_focus": [
+        "Biology",
+        "Cell biology",
+        "Gene",
+        "Biochemistry",
+        "Genetics"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Vesiclepedia: A Compendium for Extracellular Vesicles with Continuous Community Annotation",
+          "year": 2012,
+          "url": "https://doi.org/10.1371/journal.pbio.1001450",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        },
+        {
+          "type": "paper",
+          "title": "Single-molecule analysis of fluorescently labeled G-protein–coupled receptors reveals complexes with distinct dynamics and organization",
+          "year": 2012,
+          "url": "https://doi.org/10.1073/pnas.1205798110",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Distinct Dynamics of Endocytic Clathrin-Coated Pits and Coated Plaques",
+          "year": 2009,
+          "url": "https://doi.org/10.1371/journal.pbio.1000191",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.11."
+        }
+      ],
+      "why_match": "Emanuele Cocucci's work on “Vesiclepedia: A Compendium for Extracellular Vesicles with Continuous Community Annotation” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.3758,
+      "linked_programs_or_positions": [
+        {
+          "title": "Harvard University doctoral programs",
+          "url": "https://www.google.com/search?q=Harvard+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5040199755",
+        "works_count": 72,
+        "cited_by_count": 22322,
+        "score_breakdown": {
+          "total": 0.37575503889440476,
+          "topical_fit": 0.021739130434782608,
+          "evidence_strength": 1.0,
+          "authority": 0.9744273683850673,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5012779265",
+      "name": "Heather M. Duncan",
+      "institution": "University of North Carolina at Charlotte",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5012779265",
+      "research_focus": [
+        "Temozolomide",
+        "Glioblastoma",
+        "Medicine",
+        "Cancer research",
+        "Biology"
+      ],
+      "matched_student_areas": [
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Survival transplantation of preserved non–heart-beating donor rat livers: preservation by hypothermic machine perfusion1",
+          "year": 2003,
+          "url": "https://doi.org/10.1097/01.tp.0000088674.23805.0f",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Mechanisms and Antitumor Activity of a Binary EGFR/DNA–Targeting Strategy Overcomes Resistance of Glioblastoma Stem Cells to Temozolomide",
+          "year": 2019,
+          "url": "https://doi.org/10.1158/1078-0432.ccr-19-0955",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        }
+      ],
+      "why_match": "Heather M. Duncan's work on “Survival transplantation of preserved non–heart-beating donor rat livers: preservation by hypothermic machine perfusion1” is relevant to the student's interest in wound healing and regenerative medicine. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.36,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of North Carolina at Charlotte doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+North+Carolina+at+Charlotte+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5012779265",
+        "works_count": 44,
+        "cited_by_count": 11380,
+        "score_breakdown": {
+          "total": 0.36001428153200166,
+          "topical_fit": 0.03125,
+          "evidence_strength": 0.6666666666666666,
+          "authority": 0.888613074326675,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5023949391",
+      "name": "Ewa Bielska",
+      "institution": "University of Exeter",
+      "country": "United Kingdom",
+      "profile_url": "https://openalex.org/A5023949391",
+      "research_focus": [
+        "Biology",
+        "Microbiology",
+        "Cell biology",
+        "Biochemistry",
+        "Gene"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Septin-Mediated Plant Cell Invasion by the Rice Blast Fungus, <i>Magnaporthe oryzae</i>",
+          "year": 2012,
+          "url": "https://doi.org/10.1126/science.1222934",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        },
+        {
+          "type": "paper",
+          "title": "Long-distance endosome trafficking drives fungal effector production during plant infection",
+          "year": 2014,
+          "url": "https://doi.org/10.1038/ncomms6097",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Lipopolysaccharide structure impacts the entry kinetics of bacterial outer membrane vesicles into host cells",
+          "year": 2017,
+          "url": "https://doi.org/10.1371/journal.ppat.1006760",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        }
+      ],
+      "why_match": "Ewa Bielska's work on “Septin-Mediated Plant Cell Invasion by the Rice Blast Fungus, <i>Magnaporthe oryzae</i>” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.3556,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of Exeter doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+Exeter+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5023949391",
+        "works_count": 21,
+        "cited_by_count": 12455,
+        "score_breakdown": {
+          "total": 0.35555827179071575,
+          "topical_fit": 0.043478260869565216,
+          "evidence_strength": 1.0,
+          "authority": 0.8190957067796658,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5102954105",
+      "name": "Amrita Datta Chaudhuri",
+      "institution": "Rutgers, The State University of New Jersey",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5102954105",
+      "research_focus": [
+        "microRNA",
+        "Biology",
+        "Cell biology",
+        "Gene",
+        "Neuroscience"
+      ],
+      "matched_student_areas": [
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Exosome-mediated shuttling of microRNA-29 regulates HIV Tat and morphine-mediated Neuronal dysfunction",
+          "year": 2012,
+          "url": "https://doi.org/10.1038/cddis.2012.114",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        },
+        {
+          "type": "paper",
+          "title": "DPTIP, a newly identified potent brain penetrant neutral sphingomyelinase 2 inhibitor, regulates astrocyte-peripheral immune communication following brain inflammation",
+          "year": 2018,
+          "url": "https://doi.org/10.1038/s41598-018-36144-2",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        }
+      ],
+      "why_match": "Amrita Datta Chaudhuri's work on “Exosome-mediated shuttling of microRNA-29 regulates HIV Tat and morphine-mediated Neuronal dysfunction” is relevant to the student's interest in wound healing and regenerative medicine. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.3371,
+      "linked_programs_or_positions": [
+        {
+          "title": "Rutgers, The State University of New Jersey doctoral programs",
+          "url": "https://www.google.com/search?q=Rutgers%2C+The+State+University+of+New+Jersey+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5102954105",
+        "works_count": 17,
+        "cited_by_count": 12309,
+        "score_breakdown": {
+          "total": 0.3370645985572561,
+          "topical_fit": 0.021739130434782608,
+          "evidence_strength": 0.6666666666666666,
+          "authority": 0.7976418333659909,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5024216881",
+      "name": "James M. Anderson",
+      "institution": "University of Notre Dame",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5024216881",
+      "research_focus": [
+        "Chemistry",
+        "Medicine",
+        "Biology",
+        "Cell biology",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Foreign body reaction to biomaterials",
+          "year": 2008,
+          "url": "https://doi.org/10.1016/j.smim.2007.11.004",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.17."
+        }
+      ],
+      "why_match": "James M. Anderson's work on “Foreign body reaction to biomaterials” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.3288,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of Notre Dame doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+Notre+Dame+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5024216881",
+        "works_count": 602,
+        "cited_by_count": 50725,
+        "score_breakdown": {
+          "total": 0.3287878787878788,
+          "topical_fit": 0.09090909090909091,
+          "evidence_strength": 0.3333333333333333,
+          "authority": 1.0,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5068253145",
+      "name": "Drew Weissman",
+      "institution": "Boston University",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5068253145",
+      "research_focus": [
+        "Medicine",
+        "Biology",
+        "Virology",
+        "Immunology",
+        "Gene"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "hydrogel drug delivery",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Incorporation of Pseudouridine Into mRNA Yields Superior Nonimmunogenic Vector With Increased Translational Capacity and Biological Stability",
+          "year": 2008,
+          "url": "https://doi.org/10.1038/mt.2008.200",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "mRNA vaccines for infectious diseases: principles, delivery and clinical translation",
+          "year": 2021,
+          "url": "https://doi.org/10.1038/s41573-021-00283-5",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.10."
+        }
+      ],
+      "why_match": "Drew Weissman's work on “Incorporation of Pseudouridine Into mRNA Yields Superior Nonimmunogenic Vector With Increased Translational Capacity and Biological Stability” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.3193,
+      "linked_programs_or_positions": [
+        {
+          "title": "Boston University doctoral programs",
+          "url": "https://www.google.com/search?q=Boston+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5068253145",
+        "works_count": 380,
+        "cited_by_count": 41024,
+        "score_breakdown": {
+          "total": 0.31927536231884057,
+          "topical_fit": 0.06521739130434782,
+          "evidence_strength": 0.6666666666666666,
+          "authority": 1.0,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5060106170",
+      "name": "Douglas A. Lauffenburger",
+      "institution": "University of North Carolina at Chapel Hill",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5060106170",
+      "research_focus": [
+        "Biology",
+        "Chemistry",
+        "Cell biology",
+        "Biochemistry",
+        "Genetics"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Causal Protein-Signaling Networks Derived from Multiparameter Single-Cell Data",
+          "year": 2005,
+          "url": "https://doi.org/10.1126/science.1105809",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        }
+      ],
+      "why_match": "Douglas A. Lauffenburger's work on “Causal Protein-Signaling Networks Derived from Multiparameter Single-Cell Data” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.3051,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of North Carolina at Chapel Hill doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+North+Carolina+at+Chapel+Hill+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5060106170",
+        "works_count": 1092,
+        "cited_by_count": 61778,
+        "score_breakdown": {
+          "total": 0.3050724637681159,
+          "topical_fit": 0.043478260869565216,
+          "evidence_strength": 0.3333333333333333,
+          "authority": 1.0,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5073293416",
+      "name": "Beth Coyle",
+      "institution": "University of Nottingham",
+      "country": "United Kingdom",
+      "profile_url": "https://openalex.org/A5073293416",
+      "research_focus": [
+        "Biology",
+        "Medicine",
+        "Genetics",
+        "Cancer research",
+        "Gene"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "In vitro models of medulloblastoma: Choosing the right tool for the job",
+          "year": 2016,
+          "url": "https://doi.org/10.1016/j.jbiotec.2016.07.028",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        },
+        {
+          "type": "paper",
+          "title": "Copy Number Gain of 1q25 Predicts Poor Progression-Free Survival for Pediatric Intracranial Ependymomas and Enables Patient Risk Stratification: A Prospective European Clinical Trial Cohort Analysis on Behalf of the Children's Cancer Leukaemia Group (CCLG), Société Française d'Oncologie Pédiatrique (SFOP), and International Society for Pediatric Oncology (SIOP)",
+          "year": 2012,
+          "url": "https://doi.org/10.1158/1078-0432.ccr-11-2489",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        }
+      ],
+      "why_match": "Beth Coyle's work on “In vitro models of medulloblastoma: Choosing the right tool for the job” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.2975,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of Nottingham doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+Nottingham+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5073293416",
+        "works_count": 146,
+        "cited_by_count": 14493,
+        "score_breakdown": {
+          "total": 0.2975362318840579,
+          "topical_fit": 0.021739130434782608,
+          "evidence_strength": 0.6666666666666666,
+          "authority": 1.0,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5063138725",
+      "name": "Andrew Devitt",
+      "institution": "University of Nottingham",
+      "country": "United Kingdom",
+      "profile_url": "https://openalex.org/A5063138725",
+      "research_focus": [
+        "Biology",
+        "Cell biology",
+        "Chemistry",
+        "Immunology",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Macrophages: The Good, the Bad, and the Gluttony",
+          "year": 2021,
+          "url": "https://doi.org/10.3389/fimmu.2021.708186",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Macrophage Recognition of ICAM-3 on Apoptotic Leukocytes",
+          "year": 1999,
+          "url": "https://doi.org/10.4049/jimmunol.162.11.6800",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        }
+      ],
+      "why_match": "Andrew Devitt's work on “Macrophages: The Good, the Bad, and the Gluttony” is relevant to the student's interest in wound healing and regenerative medicine. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.2943,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of Nottingham doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+Nottingham+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5063138725",
+        "works_count": 94,
+        "cited_by_count": 15954,
+        "score_breakdown": {
+          "total": 0.2943417659469025,
+          "topical_fit": 0.021739130434782608,
+          "evidence_strength": 0.6666666666666666,
+          "authority": 0.9840276703142226,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5046455079",
+      "name": "Amy H. Buck",
+      "institution": "University of Colorado Boulder",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5046455079",
+      "research_focus": [
+        "Biology",
+        "microRNA",
+        "Cell biology",
+        "Gene",
+        "Genetics"
+      ],
+      "matched_student_areas": [
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Obstacles and opportunities in the functional analysis of extracellular vesicle RNA – an ISEV position paper",
+          "year": 2017,
+          "url": "https://doi.org/10.1080/20013078.2017.1286095",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        }
+      ],
+      "why_match": "Amy H. Buck's work on “Obstacles and opportunities in the functional analysis of extracellular vesicle RNA – an ISEV position paper” is relevant to the student's interest in wound healing and regenerative medicine. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.2942,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of Colorado Boulder doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+Colorado+Boulder+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": false,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": []
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5046455079",
+        "works_count": 106,
+        "cited_by_count": 17644,
+        "score_breakdown": {
+          "total": 0.2942028985507247,
+          "topical_fit": 0.021739130434782608,
+          "evidence_strength": 0.3333333333333333,
+          "authority": 1.0,
+          "contamination_penalty": 0.0,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5082970078",
+      "name": "Andrew Breglio",
+      "institution": "Boston College",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5082970078",
+      "research_focus": [
+        "Medicine",
+        "Cell biology",
+        "Internal medicine",
+        "Biology",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Exosomes mediate sensory hair cell protection in the inner ear",
+          "year": 2020,
+          "url": "https://doi.org/10.1172/jci128867",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        },
+        {
+          "type": "paper",
+          "title": "Does Payer Status Impact Clinical Outcomes after Cardiac Surgery? A Propensity Analysis",
+          "year": 2012,
+          "url": "https://doi.org/10.1532/hsf98.20111163",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        }
+      ],
+      "why_match": "Andrew Breglio's work on “Exosomes mediate sensory hair cell protection in the inner ear” is relevant to the student's interest in wound healing and regenerative medicine. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.2697,
+      "linked_programs_or_positions": [
+        {
+          "title": "Boston College doctoral programs",
+          "url": "https://www.google.com/search?q=Boston+College+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5082970078",
+        "works_count": 19,
+        "cited_by_count": 11801,
+        "score_breakdown": {
+          "total": 0.26967626739959627,
+          "topical_fit": 0.043478260869565216,
+          "evidence_strength": 0.6666666666666666,
+          "authority": 0.8063523514907349,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5078754071",
+      "name": "Frederick Porter",
+      "institution": "University of Wisconsin System",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5078754071",
+      "research_focus": [
+        "Biology",
+        "Chemistry",
+        "Medicine",
+        "Biochemistry",
+        "Gene"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Comprehensive Characterization of Reference Standard Lots of HIV-1 Subtype C Gp120 Proteins for Clinical Trials in Southern African Regions",
+          "year": 2016,
+          "url": "https://doi.org/10.3390/vaccines4020017",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        },
+        {
+          "type": "paper",
+          "title": "Digital Droplet PCR for Influenza Vaccine Development",
+          "year": 2015,
+          "url": "https://doi.org/10.1016/j.provac.2015.05.014",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.07."
+        }
+      ],
+      "why_match": "Frederick Porter's work on “Comprehensive Characterization of Reference Standard Lots of HIV-1 Subtype C Gp120 Proteins for Clinical Trials in Southern African Regions” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.2542,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of Wisconsin System doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+Wisconsin+System+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5078754071",
+        "works_count": 17,
+        "cited_by_count": 4855,
+        "score_breakdown": {
+          "total": 0.25422291462009555,
+          "topical_fit": 0.03571428571428571,
+          "evidence_strength": 0.6666666666666666,
+          "authority": 0.7484955254814304,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5040275059",
+      "name": "Jacqueline Bromberg",
+      "institution": "University of Maryland, Baltimore",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5040275059",
+      "research_focus": [
+        "Medicine",
+        "Biology",
+        "Cancer research",
+        "Internal medicine",
+        "Cancer"
+      ],
+      "matched_student_areas": [
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Double-stranded DNA in exosomes: a novel biomarker in cancer detection",
+          "year": 2014,
+          "url": "https://doi.org/10.1038/cr.2014.44",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        }
+      ],
+      "why_match": "Jacqueline Bromberg's work on “Double-stranded DNA in exosomes: a novel biomarker in cancer detection” is relevant to the student's interest in wound healing and regenerative medicine. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.2418,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of Maryland, Baltimore doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+Maryland%2C+Baltimore+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5040275059",
+        "works_count": 208,
+        "cited_by_count": 47329,
+        "score_breakdown": {
+          "total": 0.2417948717948718,
+          "topical_fit": 0.07692307692307693,
+          "evidence_strength": 0.3333333333333333,
+          "authority": 1.0,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5031656032",
+      "name": "Yvonne Couch",
+      "institution": "University of Oxford",
+      "country": "United Kingdom",
+      "profile_url": "https://openalex.org/A5031656032",
+      "research_focus": [
+        "Biology",
+        "Inflammation",
+        "Medicine",
+        "Internal medicine",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Alpha-synuclein release by neurons activates the inflammatory response in a microglial cell line",
+          "year": 2011,
+          "url": "https://doi.org/10.1016/j.neures.2010.12.020",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        }
+      ],
+      "why_match": "Yvonne Couch's work on “Alpha-synuclein release by neurons activates the inflammatory response in a microglial cell line” is relevant to the student's interest in wound healing and regenerative medicine. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.2306,
+      "linked_programs_or_positions": [
+        {
+          "title": "University of Oxford doctoral programs",
+          "url": "https://www.google.com/search?q=University+of+Oxford+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5031656032",
+        "works_count": 86,
+        "cited_by_count": 15414,
+        "score_breakdown": {
+          "total": 0.23055738653636676,
+          "topical_fit": 0.06521739130434782,
+          "evidence_strength": 0.3333333333333333,
+          "authority": 0.9730767877542976,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    },
+    {
+      "supervisor_id": "A5043544752",
+      "name": "Natalie Bauer",
+      "institution": "Tufts University",
+      "country": "United States",
+      "profile_url": "https://openalex.org/A5043544752",
+      "research_focus": [
+        "Medicine",
+        "Biology",
+        "Cell biology",
+        "Internal medicine",
+        "Biochemistry"
+      ],
+      "matched_student_areas": [
+        "biomaterials for tissue engineering",
+        "wound healing and regenerative medicine"
+      ],
+      "evidence": [
+        {
+          "type": "paper",
+          "title": "Strategic Plan for Lung Vascular Research: An NHLBI-ORDR Workshop Report",
+          "year": 2010,
+          "url": "https://doi.org/10.1164/rccm.201006-0869ws",
+          "source": "OpenAlex",
+          "relevance_reason": "Overlaps with profile interests at relevance=0.04."
+        }
+      ],
+      "why_match": "Natalie Bauer's work on “Strategic Plan for Lung Vascular Research: An NHLBI-ORDR Workshop Report” is relevant to the student's interest in biomaterials for tissue engineering. The match is strongest because the student's background includes Injectable antimicrobial hydrogel, which can be positioned around the methods/themes visible in this publication record.",
+      "tier": "safety",
+      "score": 0.2228,
+      "linked_programs_or_positions": [
+        {
+          "title": "Tufts University doctoral programs",
+          "url": "https://www.google.com/search?q=Tufts+University+PhD+program",
+          "source": "Institution web search URL",
+          "eligibility_note": "Verify intake, funding, and citizenship restrictions before outreach."
+        }
+      ],
+      "quality_flags": {
+        "same_name_risk": true,
+        "career_stage_risk": false,
+        "weak_evidence_risk": false,
+        "eligibility_risk": false,
+        "notes": [
+          "Common-name or weak-affiliation risk; retain only if evidence is strong."
+        ]
+      },
+      "source_metadata": {
+        "openalex_author_id": "https://openalex.org/A5043544752",
+        "works_count": 65,
+        "cited_by_count": 11883,
+        "score_breakdown": {
+          "total": 0.22279769375645714,
+          "topical_fit": 0.06666666666666667,
+          "evidence_strength": 0.3333333333333333,
+          "authority": 0.9306551354489525,
+          "contamination_penalty": 0.08,
+          "outcome_adjustment": 0.0
+        }
+      }
+    }
+  ]
+}
